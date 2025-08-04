@@ -32,7 +32,7 @@ Promedio del equipo 2: <strong>$890.3500648970028</strong><br>
 Precio máximo equipo 1: <strong>$863.76</strong><br>
 Precio máximo equipo 2: <strong>$1,668.05333</strong><br>
 Adicionalmente se generó una <strong>gráfica de series temporales</strong> para poder visualizar la evolución del precio estimado de ambos equipos, esto con datos con fechas simultaneas, excluyendo fechas que no cumplen con este requisito.  Con esta grafica se podrían observar tendencia de aumento de precio o puntos de alerta para decisiones futuras:</p>
-<img src="FIGURE_1.PNG" alt="Gráfica de series temporales de precios de equipos" style="max-width: 100%; height: auto; border: 1px solid #ddd; margin: 20px 0;">
+<img src="Seriesdetiempos.png" alt="Gráfica de series temporales de precios de equipos" style="max-width: 100%; height: auto; border: 1px solid #ddd; margin: 20px 0;">
 <h2 id="futuros-ajustes-o-mejoras">Futuros ajustes o mejoras</h2>
 <p>Con un análisis más profundo y con más información, se podrían evaluar también los factores como los costos logísticos, variación del tipo de cambie, inflación entre otros factores que podrían alterar el precio, Al igual que aplicar modelos de predicción para poder estimar futuros precios.</p>
 <h2 id="apreciaciones-y-comentarios-del-caso">Apreciaciones y comentarios del caso</h2>
