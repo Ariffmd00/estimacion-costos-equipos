@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="caso-1---estimación-de-costos-de-equipos-para-proyecto-de-construcción">Caso 1 - Estimación de costos de equipos para Proyecto de Construcción</h1>
 <h2 id="explicación-del-caso">Explicación del caso</h2>
